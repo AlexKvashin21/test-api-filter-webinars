@@ -1,1 +1,1 @@
-<h1 align="center">По роуту /webinars вы можете вставить  "name" - название, "month" - месяц, "theme" - тема/ <a href="https://daniilshat.ru/" target="_blank">Таким образом можно отфильтровать вебинары</a> 
+<h1 align="center">По роуту POST/webinars вы можете вставить  "name" - название, "month" - месяц, "theme" - тема/ <a href="https://daniilshat.ru/" target="_blank">Таким образом можно отфильтровать вебинары</a> 
